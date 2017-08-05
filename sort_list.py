@@ -7,4 +7,7 @@
 
 #coding:utf-8
 
-print('你说什么')
+L = [8,2,50,3]
+L.sort()
+
+print(L)
