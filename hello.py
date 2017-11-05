@@ -1,6 +1,11 @@
 #coding:utf-8
-print('你好')
-print('其实都一样')
-anInt = 0
-anInt +=1
-print(2%5,2.0/5,2.0//5)
+def fib(max):
+    n,a,b = 0,0,1
+    while n < max:
+        yield b
+        a ,b = b,a+b
+        n += 1
+    return 'done'
+
+for n in fib(6):
+    print(n)
