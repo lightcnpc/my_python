@@ -1,5 +1,4 @@
-import shelve
-fieldnames = ('name','age','job','pay')
+ fieldnames = ('name','age','job','pay')
 maxfield = max(len(f) for f in fieldnames)
 db = shelve.open('class-shelve')
 
