@@ -686,4 +686,7 @@ CPU：2颗hygon 5380 2.5GHz（16C），
 https://econline.cpf.com.cn/NASApp/iTreasury-ebank/Init_signature.jsp#
 问机电财务公司Ukey怎么管理
 
-盛宝-利率报备运维年报-EAST运维补充协议
+
+OA联动印控仪，杨利，问纯内网解决方案
+电信，灾备机柜报价
+zabbix报警测试，刘辉，刘辉让找雷钊
